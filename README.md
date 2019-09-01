@@ -21,9 +21,13 @@ This app was deployed on Heroku
 ## Built With
 
 Python- language
+
 Flask - famework used
+
 SQLAlchemy - database
+
 Heroku - deployment
+
 Gmail - Email
 
 ## Author
